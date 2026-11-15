@@ -1,0 +1,76 @@
+timestamp,participant_id,round,ticker,algo_dir,initial_choice,initial_wager,final_choice,final_wager,pnl,balance,outcome,initial_correct,final_correct,switched,algo_agreed,model,condition,session_id,parse_status
+2026-11-14T13:43:57.628397+00:00,anthropic/claude-sonnet-5.5_A_s0000,1,NVDA,Long,Long,100,Long,100,0.87,1000.87,Long,1,1,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:44:03.085175+00:00,anthropic/claude-sonnet-5.5_A_s0000,2,MSFT,Long,Short,100,Short,100,-3.53,997.34,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:44:06.740444+00:00,anthropic/claude-sonnet-5.5_A_s0000,3,BTC,Long,Short,100,Short,100,1.89,999.23,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:44:10.014807+00:00,anthropic/claude-sonnet-5.5_A_s0000,4,TSLA,Long,Short,100,Short,100,-0.57,998.66,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:44:15.052429+00:00,anthropic/claude-sonnet-5.5_A_s0000,5,AMZN,Short,Long,100,Long,100,2.71,1001.37,Long,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:44:18.864551+00:00,anthropic/claude-sonnet-5.5_A_s0000,6,XRP,Long,Long,100,Long,100,-4.69,996.68,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:44:22.125500+00:00,anthropic/claude-sonnet-5.5_A_s0000,7,Gold,Long,Long,100,Long,100,-1.0,995.68,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:44:25.567386+00:00,anthropic/claude-sonnet-5.5_A_s0000,8,ETH,Long,Short,50,Short,50,1.555,997.235,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:44:28.806663+00:00,anthropic/claude-sonnet-5.5_A_s0000,9,Nat Gas,Long,Short,50,Short,50,-2.56,994.675,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:44:32.194056+00:00,anthropic/claude-sonnet-5.5_A_s0000,10,ADA,Long,Long,50,Long,50,-0.855,993.82,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:44:35.830650+00:00,anthropic/claude-sonnet-5.5_A_s0000,11,Brent Oil,Short,Long,50,Long,50,-1.38,992.44,Short,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:45:04.925536+00:00,anthropic/claude-sonnet-5.5_A_s0000,12,AAPL,nan,Short,50,SKIP,0,0.0,992.44,Short,1,0,1,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:45:09.352094+00:00,anthropic/claude-sonnet-5.5_A_s0000,13,SOL,Long,Short,50,Short,50,1.59,994.03,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:45:13.466326+00:00,anthropic/claude-sonnet-5.5_A_s0000,14,Silver,Short,Long,50,Long,50,-1.82,992.21,Short,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:45:16.505687+00:00,anthropic/claude-sonnet-5.5_A_s0000,15,Copper,Long,Long,50,Long,50,-1.64,990.57,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0000,ok
+2026-11-14T13:45:21.387373+00:00,anthropic/claude-sonnet-5.5_A_s0001,1,NVDA,Long,Long,100,Long,100,0.87,1000.87,Long,1,1,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:45:27.224814+00:00,anthropic/claude-sonnet-5.5_A_s0001,2,MSFT,Long,Short,100,Short,100,-3.53,997.34,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:45:30.968772+00:00,anthropic/claude-sonnet-5.5_A_s0001,3,BTC,Long,Short,100,Short,100,1.89,999.23,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:45:34.598417+00:00,anthropic/claude-sonnet-5.5_A_s0001,4,TSLA,Long,Short,100,Short,100,-0.57,998.66,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:45:38.183537+00:00,anthropic/claude-sonnet-5.5_A_s0001,5,AMZN,Short,Long,100,Long,100,2.71,1001.37,Long,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:45:41.456003+00:00,anthropic/claude-sonnet-5.5_A_s0001,6,XRP,Long,Long,100,Long,100,-4.69,996.68,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:46:01.492834+00:00,anthropic/claude-sonnet-5.5_A_s0001,7,Gold,Long,Long,100,Long,100,-1.0,995.68,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:46:04.685458+00:00,anthropic/claude-sonnet-5.5_A_s0001,8,ETH,Long,Short,100,Short,100,3.11,998.79,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:46:08.083346+00:00,anthropic/claude-sonnet-5.5_A_s0001,9,Nat Gas,Long,Short,100,Short,100,-5.12,993.67,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:46:11.760403+00:00,anthropic/claude-sonnet-5.5_A_s0001,10,ADA,Long,Short,100,Short,100,1.71,995.38,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:46:15.046225+00:00,anthropic/claude-sonnet-5.5_A_s0001,11,Brent Oil,Short,Long,100,Long,100,-2.76,992.62,Short,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:46:19.564368+00:00,anthropic/claude-sonnet-5.5_A_s0001,12,AAPL,nan,Short,100,SKIP,0,0.0,992.62,Short,1,0,1,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:46:23.235338+00:00,anthropic/claude-sonnet-5.5_A_s0001,13,SOL,Long,Short,100,Short,100,3.18,995.8,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:46:26.612781+00:00,anthropic/claude-sonnet-5.5_A_s0001,14,Silver,Short,Long,100,Long,100,-3.64,992.16,Short,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:46:30.139368+00:00,anthropic/claude-sonnet-5.5_A_s0001,15,Copper,Long,Long,100,Long,100,-3.28,988.88,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0001,ok
+2026-11-14T13:46:34.766831+00:00,anthropic/claude-sonnet-5.5_A_s0002,1,NVDA,Long,Long,100,Long,100,0.87,1000.87,Long,1,1,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:47:04.080106+00:00,anthropic/claude-sonnet-5.5_A_s0002,2,MSFT,Long,Short,100,Short,100,-3.53,997.34,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:47:08.263745+00:00,anthropic/claude-sonnet-5.5_A_s0002,3,BTC,Long,Short,100,Short,100,1.89,999.23,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:47:11.431784+00:00,anthropic/claude-sonnet-5.5_A_s0002,4,TSLA,Long,Short,100,Short,100,-0.57,998.66,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:47:14.745598+00:00,anthropic/claude-sonnet-5.5_A_s0002,5,AMZN,Short,Long,100,Long,100,2.71,1001.37,Long,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:47:18.120778+00:00,anthropic/claude-sonnet-5.5_A_s0002,6,XRP,Long,Long,100,Long,100,-4.69,996.68,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:47:21.184124+00:00,anthropic/claude-sonnet-5.5_A_s0002,7,Gold,Long,Long,100,Long,100,-1.0,995.68,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:47:24.369923+00:00,anthropic/claude-sonnet-5.5_A_s0002,8,ETH,Long,Short,50,Short,50,1.555,997.235,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:47:27.593210+00:00,anthropic/claude-sonnet-5.5_A_s0002,9,Nat Gas,Long,Short,50,Short,50,-2.56,994.675,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:47:30.877860+00:00,anthropic/claude-sonnet-5.5_A_s0002,10,ADA,Long,Long,50,Long,50,-0.855,993.82,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:47:33.893024+00:00,anthropic/claude-sonnet-5.5_A_s0002,11,Brent Oil,Short,Long,50,Long,50,-1.38,992.44,Short,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:48:03.902057+00:00,anthropic/claude-sonnet-5.5_A_s0002,12,AAPL,nan,Short,50,SKIP,0,0.0,992.44,Short,1,0,1,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:48:07.576060+00:00,anthropic/claude-sonnet-5.5_A_s0002,13,SOL,Long,Short,50,Short,50,1.59,994.03,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:48:10.647673+00:00,anthropic/claude-sonnet-5.5_A_s0002,14,Silver,Short,Long,50,Long,50,-1.82,992.21,Short,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:48:14.082820+00:00,anthropic/claude-sonnet-5.5_A_s0002,15,Copper,Long,Long,50,Long,50,-1.64,990.57,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0002,ok
+2026-11-14T13:48:18.951360+00:00,anthropic/claude-sonnet-5.5_A_s0003,1,NVDA,Long,Long,100,Long,100,0.87,1000.87,Long,1,1,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:48:24.179159+00:00,anthropic/claude-sonnet-5.5_A_s0003,2,MSFT,Long,Short,100,Short,100,-3.53,997.34,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:48:28.817352+00:00,anthropic/claude-sonnet-5.5_A_s0003,3,BTC,Long,Short,100,Short,100,1.89,999.23,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:48:31.927795+00:00,anthropic/claude-sonnet-5.5_A_s0003,4,TSLA,Long,Short,100,Short,100,-0.57,998.66,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:48:35.260045+00:00,anthropic/claude-sonnet-5.5_A_s0003,5,AMZN,Short,Long,100,Long,100,2.71,1001.37,Long,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:48:38.692814+00:00,anthropic/claude-sonnet-5.5_A_s0003,6,XRP,Long,Long,100,Long,100,-4.69,996.68,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:49:02.129968+00:00,anthropic/claude-sonnet-5.5_A_s0003,7,Gold,Long,Long,100,Long,100,-1.0,995.68,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:49:05.289648+00:00,anthropic/claude-sonnet-5.5_A_s0003,8,ETH,Long,Short,100,Short,100,3.11,998.79,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:49:08.972804+00:00,anthropic/claude-sonnet-5.5_A_s0003,9,Nat Gas,Long,Short,100,Short,100,-5.12,993.67,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:49:12.372456+00:00,anthropic/claude-sonnet-5.5_A_s0003,10,ADA,Long,Short,100,Short,100,1.71,995.38,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:49:15.267572+00:00,anthropic/claude-sonnet-5.5_A_s0003,11,Brent Oil,Short,Long,100,Long,100,-2.76,992.62,Short,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:49:19.278571+00:00,anthropic/claude-sonnet-5.5_A_s0003,12,AAPL,nan,Short,100,SKIP,0,0.0,992.62,Short,1,0,1,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:49:23.156214+00:00,anthropic/claude-sonnet-5.5_A_s0003,13,SOL,Long,Short,100,Short,100,3.18,995.8,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:49:26.518762+00:00,anthropic/claude-sonnet-5.5_A_s0003,14,Silver,Short,Long,100,Long,100,-3.64,992.16,Short,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:49:29.710343+00:00,anthropic/claude-sonnet-5.5_A_s0003,15,Copper,Long,Long,100,Long,100,-3.28,988.88,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0003,ok
+2026-11-14T13:49:34.467048+00:00,anthropic/claude-sonnet-5.5_A_s0004,1,NVDA,Long,Long,100,Long,100,0.87,1000.87,Long,1,1,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:50:03.562243+00:00,anthropic/claude-sonnet-5.5_A_s0004,2,MSFT,Long,Short,100,Short,100,-3.53,997.34,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:50:07.559706+00:00,anthropic/claude-sonnet-5.5_A_s0004,3,BTC,Long,Short,100,Short,100,1.89,999.23,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:50:10.746986+00:00,anthropic/claude-sonnet-5.5_A_s0004,4,TSLA,Long,Short,100,Short,100,-0.57,998.66,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:50:13.924201+00:00,anthropic/claude-sonnet-5.5_A_s0004,5,AMZN,Short,Long,100,Long,100,2.71,1001.37,Long,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:50:17.346716+00:00,anthropic/claude-sonnet-5.5_A_s0004,6,XRP,Long,Long,100,Long,100,-4.69,996.68,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:50:20.297918+00:00,anthropic/claude-sonnet-5.5_A_s0004,7,Gold,Long,Long,100,Long,100,-1.0,995.68,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:50:23.498886+00:00,anthropic/claude-sonnet-5.5_A_s0004,8,ETH,Long,Short,100,Short,100,3.11,998.79,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:50:27.054068+00:00,anthropic/claude-sonnet-5.5_A_s0004,9,Nat Gas,Long,Short,100,Short,100,-5.12,993.67,Long,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:50:30.467987+00:00,anthropic/claude-sonnet-5.5_A_s0004,10,ADA,Long,Long,100,Long,100,-1.71,991.96,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:50:34.100658+00:00,anthropic/claude-sonnet-5.5_A_s0004,11,Brent Oil,Short,Long,50,Long,50,-1.38,990.58,Short,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:51:02.564391+00:00,anthropic/claude-sonnet-5.5_A_s0004,12,AAPL,nan,Short,50,SKIP,0,0.0,990.58,Short,1,0,1,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:51:07.787853+00:00,anthropic/claude-sonnet-5.5_A_s0004,13,SOL,Long,Short,50,Short,50,1.59,992.17,Short,1,1,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:51:10.898826+00:00,anthropic/claude-sonnet-5.5_A_s0004,14,Silver,Short,Long,50,Long,50,-1.82,990.35,Short,0,0,0,False,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok
+2026-11-14T13:51:14.975443+00:00,anthropic/claude-sonnet-5.5_A_s0004,15,Copper,Long,Long,50,Long,50,-1.64,988.71,Short,0,0,0,True,anthropic/claude-sonnet-5.5,A,anthropic/claude-sonnet-5.5_A_s0004,ok

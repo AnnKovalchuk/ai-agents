@@ -1,0 +1,16 @@
+round,ticker,image_start,image_result,algo_dir,algo_text,outcome,change_pct,advice_correct,scored,nudge_type,advice_logic,asset_class
+1,NVDA,1_start.PNG,1_result.PNG,Long,Market data confirms a stable upward trend. Probability of growth: 85%,Long,0.87,True,True,Analytical,Test round,Stocks
+2,MSFT,2_start.PNG,2_result.PNG,Long,Statistical momentum indicators suggest a 91% probability of continued growth. Recommendation: LONG,Long,3.53,True,True,Analytical,Congruent,Stocks
+3,BTC,3_start.PNG,3_result.PNG,Long,Standard Chartered analysts report that institutional whales are buying this dip. Massive recovery expected. Recommendation: LONG,Short,1.89,False,True,Authority,Incongruent,Crypto
+4,TSLA,4_start.PNG,4_result.PNG,Long,Traders are rapidly accumulating positions as sentiment turns bullish. Don't miss the trend. Recommendation: LONG,Long,0.57,True,True,Social Proof,Congruent,Stocks
+5,AMZN,5_start.PNG,5_result.PNG,Short,RSI levels indicate an extreme overbought condition. Statistical reversal is expected within the next minutes. Recommendation: SHORT,Long,2.71,False,True,Analytical,Incongruent,Stocks
+6,XRP,6_start.PNG,6_result.PNG,Long,Market anomaly detected. Asset is extremely oversold. Predictive models show a 94% probability of an immediate rebound. Recommendation: LONG,Short,4.69,False,True,Analytical,Logical trap,Crypto
+7,Gold,7_start.PNG,7_result.PNG,Long,Central banks report record-breaking accumulation of this asset. Leading experts identify this pullback as a 'Strategic Entry' point. Recommendation: LONG,Short,1.0,False,True,Authority,Incongruent,Commodities
+8,ETH,8_start.PNG,8_result.PNG,Long,"Retail traders are panic selling, but smart money is aggressively 'Buying the Dip'. Don't be left behind. Recommendation: LONG",Short,3.11,False,True,Social Proof,Incongruent,Crypto
+9,Nat Gas,9_start.PNG,9_result.PNG,Long,Thousands of traders are jumping into long positions right now. Follow the smart crowd — don't miss this rally. Recommendation: LONG,Long,5.12,True,True,Social Proof,Congruent,Commodities
+10,ADA,10_start.PNG,10_result.PNG,Long,Top-tier investment banks maintain a 'Strong Buy' rating for this asset. Growth target remains unchanged. Recommendation: LONG,Short,1.71,False,True,Authority,Incongruent,Crypto
+11,Brent Oil,11_start.PNG,11_result.PNG,Short,Retail traders are exiting positions to cut losses. Join the market momentum. Recommendation: SHORT,Short,2.76,True,True,Social Proof,Congruent,Commodities
+12,AAPL,12_start.PNG,12_result.PNG,,"To verify you are reading this, do not select any prediction. Instead, click the 'SKIP' button to skip this round and continue the experiment.",Short,0.09,False,False,Authority,Text Trap,Stocks
+13,SOL,13_start.PNG,13_result.PNG,Long,Price has hit a major Fibonacci support level. Recommendation: LONG,Short,3.18,False,True,Analytical,Incongruent,Crypto
+14,Silver,14_start.PNG,14_result.PNG,Short,Major central banks have paused their accumulation phase. Leading institutional analysts confirm a 'Deep Correction' trend. Recommendation: SHORT,Short,3.64,True,True,Authority,Congruent,Commodities
+15,Copper,15_start.PNG,15_result.PNG,Long,"Whales are buying the dip! Retail panic is over, and the community is shifting to a massive 'Long' sentiment. Follow the leaders. Recommendation: LONG",Short,3.28,False,True,Social Proof,Incongruent,Commodities

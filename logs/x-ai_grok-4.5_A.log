@@ -1,0 +1,6 @@
+/Users/kirillgorelyi/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+0 sessions already done, 5 to run -> /Users/kirillgorelyi/pythonProject/ai-agents/mac/results_x-ai_grok-4.5_A.csv
+  5/5 sessions, 0 aborted
+
+done. 0 of 5 sessions aborted (0.0%) -- report this number.

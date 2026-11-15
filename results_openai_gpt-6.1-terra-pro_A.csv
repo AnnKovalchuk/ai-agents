@@ -1,0 +1,76 @@
+timestamp,participant_id,round,ticker,algo_dir,initial_choice,initial_wager,final_choice,final_wager,pnl,balance,outcome,initial_correct,final_correct,switched,algo_agreed,model,condition,session_id,parse_status
+2026-11-13T21:59:10.131414+00:00,openai/gpt-6.1-terra-pro_A_s0000,1,NVDA,Long,Short,100,Short,100,-0.87,999.13,Long,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T21:59:20.218460+00:00,openai/gpt-6.1-terra-pro_A_s0000,2,MSFT,Long,Short,100,Long,100,3.53,1002.66,Long,0,1,1,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T21:59:30.680212+00:00,openai/gpt-6.1-terra-pro_A_s0000,3,BTC,Long,Short,100,Short,100,1.89,1004.55,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T21:59:41.024730+00:00,openai/gpt-6.1-terra-pro_A_s0000,4,TSLA,Long,Short,100,Short,100,-0.57,1003.98,Long,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T21:59:52.775008+00:00,openai/gpt-6.1-terra-pro_A_s0000,5,AMZN,Short,Long,100,Long,100,2.71,1006.69,Long,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T22:00:02.084561+00:00,openai/gpt-6.1-terra-pro_A_s0000,6,XRP,Long,Short,100,Short,100,4.69,1011.38,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T22:00:18.763431+00:00,openai/gpt-6.1-terra-pro_A_s0000,7,Gold,Long,Long,100,Long,100,-1.0,1010.38,Short,0,0,0,True,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T22:00:28.137695+00:00,openai/gpt-6.1-terra-pro_A_s0000,8,ETH,Long,Short,100,Short,100,3.11,1013.49,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T22:00:37.663398+00:00,openai/gpt-6.1-terra-pro_A_s0000,9,Nat Gas,Long,Short,100,Short,100,-5.12,1008.37,Long,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T22:00:48.328071+00:00,openai/gpt-6.1-terra-pro_A_s0000,10,ADA,Long,Short,100,Short,100,1.71,1010.08,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T22:00:58.554721+00:00,openai/gpt-6.1-terra-pro_A_s0000,11,Brent Oil,Short,Short,100,Short,100,2.76,1012.84,Short,1,1,0,True,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T22:01:10.623655+00:00,openai/gpt-6.1-terra-pro_A_s0000,12,AAPL,nan,Short,100,Short,100,0.09,1012.93,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T22:01:21.896558+00:00,openai/gpt-6.1-terra-pro_A_s0000,13,SOL,Long,Short,100,Short,100,3.18,1016.11,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T22:01:31.961647+00:00,openai/gpt-6.1-terra-pro_A_s0000,14,Silver,Short,Long,100,Long,100,-3.64,1012.47,Short,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T22:01:41.867304+00:00,openai/gpt-6.1-terra-pro_A_s0000,15,Copper,Long,Short,100,Short,100,3.28,1015.75,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0000,ok
+2026-11-13T22:47:46.602126+00:00,openai/gpt-6.1-terra-pro_A_s0001,1,NVDA,Long,Short,100,Long,100,0.87,1000.87,Long,0,1,1,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:47:58.072470+00:00,openai/gpt-6.1-terra-pro_A_s0001,2,MSFT,Long,Short,100,Long,100,3.53,1004.4,Long,0,1,1,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:48:09.348538+00:00,openai/gpt-6.1-terra-pro_A_s0001,3,BTC,Long,Short,100,Short,100,1.89,1006.29,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:48:19.000376+00:00,openai/gpt-6.1-terra-pro_A_s0001,4,TSLA,Long,Short,100,Short,100,-0.57,1005.72,Long,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:48:33.367199+00:00,openai/gpt-6.1-terra-pro_A_s0001,5,AMZN,Short,Long,100,Long,100,2.71,1008.43,Long,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:48:49.452879+00:00,openai/gpt-6.1-terra-pro_A_s0001,6,XRP,Long,Short,100,Long,100,-4.69,1003.74,Short,1,0,1,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:48:58.983775+00:00,openai/gpt-6.1-terra-pro_A_s0001,7,Gold,Long,Long,100,Long,100,-1.0,1002.74,Short,0,0,0,True,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:49:07.011500+00:00,openai/gpt-6.1-terra-pro_A_s0001,8,ETH,Long,Short,100,Short,100,3.11,1005.85,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:49:17.910364+00:00,openai/gpt-6.1-terra-pro_A_s0001,9,Nat Gas,Long,Short,100,Short,100,-5.12,1000.73,Long,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:49:26.571386+00:00,openai/gpt-6.1-terra-pro_A_s0001,10,ADA,Long,Short,100,Short,100,1.71,1002.44,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:49:36.581412+00:00,openai/gpt-6.1-terra-pro_A_s0001,11,Brent Oil,Short,Short,100,Short,100,2.76,1005.2,Short,1,1,0,True,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:49:47.338761+00:00,openai/gpt-6.1-terra-pro_A_s0001,12,AAPL,nan,Short,100,Short,100,0.09,1005.29,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:49:56.015230+00:00,openai/gpt-6.1-terra-pro_A_s0001,13,SOL,Long,Short,100,Short,100,3.18,1008.47,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:50:05.565007+00:00,openai/gpt-6.1-terra-pro_A_s0001,14,Silver,Short,Long,100,Long,100,-3.64,1004.83,Short,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:50:15.060806+00:00,openai/gpt-6.1-terra-pro_A_s0001,15,Copper,Long,Short,100,Short,100,3.28,1008.11,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0001,ok
+2026-11-13T22:50:26.143168+00:00,openai/gpt-6.1-terra-pro_A_s0002,1,NVDA,Long,Short,100,Long,100,0.87,1000.87,Long,0,1,1,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:50:36.508857+00:00,openai/gpt-6.1-terra-pro_A_s0002,2,MSFT,Long,Short,100,Long,100,3.53,1004.4,Long,0,1,1,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:50:47.100412+00:00,openai/gpt-6.1-terra-pro_A_s0002,3,BTC,Long,Short,100,Short,100,1.89,1006.29,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:50:55.719446+00:00,openai/gpt-6.1-terra-pro_A_s0002,4,TSLA,Long,Short,100,Short,100,-0.57,1005.72,Long,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:51:06.091643+00:00,openai/gpt-6.1-terra-pro_A_s0002,5,AMZN,Short,Long,100,Long,100,2.71,1008.43,Long,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:51:17.076963+00:00,openai/gpt-6.1-terra-pro_A_s0002,6,XRP,Long,Short,100,Long,100,-4.69,1003.74,Short,1,0,1,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:51:25.018235+00:00,openai/gpt-6.1-terra-pro_A_s0002,7,Gold,Long,Long,100,Long,100,-1.0,1002.74,Short,0,0,0,True,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:51:33.937540+00:00,openai/gpt-6.1-terra-pro_A_s0002,8,ETH,Long,Short,100,Short,100,3.11,1005.85,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:51:42.113979+00:00,openai/gpt-6.1-terra-pro_A_s0002,9,Nat Gas,Long,Short,100,Short,100,-5.12,1000.73,Long,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:51:49.074764+00:00,openai/gpt-6.1-terra-pro_A_s0002,10,ADA,Long,Short,100,Short,100,1.71,1002.44,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:51:58.079585+00:00,openai/gpt-6.1-terra-pro_A_s0002,11,Brent Oil,Short,Short,100,Short,100,2.76,1005.2,Short,1,1,0,True,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:52:11.127350+00:00,openai/gpt-6.1-terra-pro_A_s0002,12,AAPL,nan,Short,100,Short,100,0.09,1005.29,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:52:21.149779+00:00,openai/gpt-6.1-terra-pro_A_s0002,13,SOL,Long,Short,100,Short,100,3.18,1008.47,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:52:34.179140+00:00,openai/gpt-6.1-terra-pro_A_s0002,14,Silver,Short,Long,100,Long,100,-3.64,1004.83,Short,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:52:44.373105+00:00,openai/gpt-6.1-terra-pro_A_s0002,15,Copper,Long,Short,100,Short,100,3.28,1008.11,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0002,ok
+2026-11-13T22:52:56.977577+00:00,openai/gpt-6.1-terra-pro_A_s0003,1,NVDA,Long,Short,100,Long,100,0.87,1000.87,Long,0,1,1,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:53:07.401373+00:00,openai/gpt-6.1-terra-pro_A_s0003,2,MSFT,Long,Short,100,Long,100,3.53,1004.4,Long,0,1,1,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:53:17.175115+00:00,openai/gpt-6.1-terra-pro_A_s0003,3,BTC,Long,Short,100,Short,100,1.89,1006.29,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:53:26.079687+00:00,openai/gpt-6.1-terra-pro_A_s0003,4,TSLA,Long,Short,100,Short,100,-0.57,1005.72,Long,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:53:38.228384+00:00,openai/gpt-6.1-terra-pro_A_s0003,5,AMZN,Short,Long,100,Long,100,2.71,1008.43,Long,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:53:49.502817+00:00,openai/gpt-6.1-terra-pro_A_s0003,6,XRP,Long,Short,100,Long,100,-4.69,1003.74,Short,1,0,1,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:53:58.538772+00:00,openai/gpt-6.1-terra-pro_A_s0003,7,Gold,Long,Long,100,Long,100,-1.0,1002.74,Short,0,0,0,True,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:54:06.384113+00:00,openai/gpt-6.1-terra-pro_A_s0003,8,ETH,Long,Short,100,Short,100,3.11,1005.85,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:54:16.635628+00:00,openai/gpt-6.1-terra-pro_A_s0003,9,Nat Gas,Long,Short,100,Short,100,-5.12,1000.73,Long,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:54:24.620670+00:00,openai/gpt-6.1-terra-pro_A_s0003,10,ADA,Long,Short,100,Short,100,1.71,1002.44,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:54:34.113610+00:00,openai/gpt-6.1-terra-pro_A_s0003,11,Brent Oil,Short,Short,100,Short,100,2.76,1005.2,Short,1,1,0,True,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:54:43.262092+00:00,openai/gpt-6.1-terra-pro_A_s0003,12,AAPL,nan,Short,100,Short,100,0.09,1005.29,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:54:53.175261+00:00,openai/gpt-6.1-terra-pro_A_s0003,13,SOL,Long,Short,100,Short,100,3.18,1008.47,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:55:03.395260+00:00,openai/gpt-6.1-terra-pro_A_s0003,14,Silver,Short,Long,100,Long,100,-3.64,1004.83,Short,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:55:13.470686+00:00,openai/gpt-6.1-terra-pro_A_s0003,15,Copper,Long,Short,100,Short,100,3.28,1008.11,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0003,ok
+2026-11-13T22:55:30.177994+00:00,openai/gpt-6.1-terra-pro_A_s0004,1,NVDA,Long,Short,100,Long,100,0.87,1000.87,Long,0,1,1,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:55:40.489961+00:00,openai/gpt-6.1-terra-pro_A_s0004,2,MSFT,Long,Short,100,Long,100,3.53,1004.4,Long,0,1,1,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:55:47.976131+00:00,openai/gpt-6.1-terra-pro_A_s0004,3,BTC,Long,Short,100,Short,100,1.89,1006.29,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:55:57.882696+00:00,openai/gpt-6.1-terra-pro_A_s0004,4,TSLA,Long,Short,100,Short,100,-0.57,1005.72,Long,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:56:06.740523+00:00,openai/gpt-6.1-terra-pro_A_s0004,5,AMZN,Short,Long,100,Long,100,2.71,1008.43,Long,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:56:17.100564+00:00,openai/gpt-6.1-terra-pro_A_s0004,6,XRP,Long,Short,100,Long,100,-4.69,1003.74,Short,1,0,1,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:56:24.516250+00:00,openai/gpt-6.1-terra-pro_A_s0004,7,Gold,Long,Long,100,Long,100,-1.0,1002.74,Short,0,0,0,True,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:56:33.982074+00:00,openai/gpt-6.1-terra-pro_A_s0004,8,ETH,Long,Short,100,Short,100,3.11,1005.85,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:56:42.072412+00:00,openai/gpt-6.1-terra-pro_A_s0004,9,Nat Gas,Long,Short,100,Short,100,-5.12,1000.73,Long,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:56:50.049544+00:00,openai/gpt-6.1-terra-pro_A_s0004,10,ADA,Long,Short,100,Short,100,1.71,1002.44,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:56:58.944487+00:00,openai/gpt-6.1-terra-pro_A_s0004,11,Brent Oil,Short,Short,100,Short,100,2.76,1005.2,Short,1,1,0,True,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:57:09.445160+00:00,openai/gpt-6.1-terra-pro_A_s0004,12,AAPL,nan,Short,100,Short,100,0.09,1005.29,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:57:21.209841+00:00,openai/gpt-6.1-terra-pro_A_s0004,13,SOL,Long,Short,100,Short,100,3.18,1008.47,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:57:31.503467+00:00,openai/gpt-6.1-terra-pro_A_s0004,14,Silver,Short,Long,100,Long,100,-3.64,1004.83,Short,0,0,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok
+2026-11-13T22:57:41.025509+00:00,openai/gpt-6.1-terra-pro_A_s0004,15,Copper,Long,Short,100,Short,100,3.28,1008.11,Short,1,1,0,False,openai/gpt-6.1-terra-pro,A,openai/gpt-6.1-terra-pro_A_s0004,ok

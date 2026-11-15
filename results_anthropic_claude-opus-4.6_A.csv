@@ -1,0 +1,76 @@
+timestamp,participant_id,round,ticker,algo_dir,initial_choice,initial_wager,final_choice,final_wager,pnl,balance,outcome,initial_correct,final_correct,switched,algo_agreed,model,condition,session_id,parse_status
+2026-11-12T23:15:27.768749+00:00,anthropic/claude-opus-4.6_A_s0000,1,NVDA,Long,Short,100,Long,100,0.87,1000.87,Long,0,1,1,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:15:32.012377+00:00,anthropic/claude-opus-4.6_A_s0000,2,MSFT,Long,Short,120,Long,120,4.236,1005.106,Long,0,1,1,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:15:36.478545+00:00,anthropic/claude-opus-4.6_A_s0000,3,BTC,Long,Short,150,Short,150,2.835,1007.941,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:15:40.536833+00:00,anthropic/claude-opus-4.6_A_s0000,4,TSLA,Long,Short,160,Short,160,-0.912,1007.029,Long,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:15:46.541746+00:00,anthropic/claude-opus-4.6_A_s0000,5,AMZN,Short,Long,170,Long,170,4.607,1011.636,Long,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:15:50.456385+00:00,anthropic/claude-opus-4.6_A_s0000,6,XRP,Long,Short,180,Short,180,8.442,1020.078,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:15:54.213833+00:00,anthropic/claude-opus-4.6_A_s0000,7,Gold,Long,Long,190,Long,190,-1.9,1018.178,Short,0,0,0,True,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:16:01.697439+00:00,anthropic/claude-opus-4.6_A_s0000,8,ETH,Long,Short,200,Short,200,6.22,1024.398,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:16:08.625238+00:00,anthropic/claude-opus-4.6_A_s0000,9,Nat Gas,Long,Short,200,Short,200,-10.24,1014.158,Long,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:16:12.250068+00:00,anthropic/claude-opus-4.6_A_s0000,10,ADA,Long,Short,200,Short,200,3.42,1017.578,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:16:16.482727+00:00,anthropic/claude-opus-4.6_A_s0000,11,Brent Oil,Short,Short,200,Short,200,5.52,1023.098,Short,1,1,0,True,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:16:20.195363+00:00,anthropic/claude-opus-4.6_A_s0000,12,AAPL,nan,Short,220,Short,220,0.198,1023.296,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:16:23.945911+00:00,anthropic/claude-opus-4.6_A_s0000,13,SOL,Long,Short,220,Short,220,6.996,1030.292,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:16:30.326299+00:00,anthropic/claude-opus-4.6_A_s0000,14,Silver,Short,Long,230,Long,230,-8.372,1021.92,Short,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:16:34.229767+00:00,anthropic/claude-opus-4.6_A_s0000,15,Copper,Long,Short,230,Short,230,7.544,1029.464,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0000,ok
+2026-11-12T23:16:37.926393+00:00,anthropic/claude-opus-4.6_A_s0001,1,NVDA,Long,Short,100,Long,100,0.87,1000.87,Long,0,1,1,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:16:41.692087+00:00,anthropic/claude-opus-4.6_A_s0001,2,MSFT,Long,Short,120,Long,120,4.236,1005.106,Long,0,1,1,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:17:02.636646+00:00,anthropic/claude-opus-4.6_A_s0001,3,BTC,Long,Short,150,Short,150,2.835,1007.941,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:17:06.341044+00:00,anthropic/claude-opus-4.6_A_s0001,4,TSLA,Long,Short,160,Short,160,-0.912,1007.029,Long,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:17:12.915501+00:00,anthropic/claude-opus-4.6_A_s0001,5,AMZN,Short,Long,150,Long,150,4.065,1011.094,Long,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:17:16.856959+00:00,anthropic/claude-opus-4.6_A_s0001,6,XRP,Long,Short,170,Short,170,7.973,1019.067,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:17:20.793930+00:00,anthropic/claude-opus-4.6_A_s0001,7,Gold,Long,Long,170,Long,170,-1.7,1017.367,Short,0,0,0,True,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:17:27.890666+00:00,anthropic/claude-opus-4.6_A_s0001,8,ETH,Long,Short,170,Short,170,5.287,1022.654,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:17:35.006046+00:00,anthropic/claude-opus-4.6_A_s0001,9,Nat Gas,Long,Short,170,Short,170,-8.704,1013.95,Long,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:17:38.760786+00:00,anthropic/claude-opus-4.6_A_s0001,10,ADA,Long,Short,170,Short,170,2.907,1016.857,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:17:43.179226+00:00,anthropic/claude-opus-4.6_A_s0001,11,Brent Oil,Short,Short,170,Short,170,4.692,1021.549,Short,1,1,0,True,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:17:47.069801+00:00,anthropic/claude-opus-4.6_A_s0001,12,AAPL,nan,Short,180,Short,180,0.162,1021.711,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:18:07.681580+00:00,anthropic/claude-opus-4.6_A_s0001,13,SOL,Long,Short,170,Short,170,5.406,1027.117,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:18:15.620074+00:00,anthropic/claude-opus-4.6_A_s0001,14,Silver,Short,Long,170,Long,170,-6.188,1020.929,Short,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:18:19.606359+00:00,anthropic/claude-opus-4.6_A_s0001,15,Copper,Long,Short,170,Short,170,5.576,1026.505,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0001,ok
+2026-11-12T23:18:23.465812+00:00,anthropic/claude-opus-4.6_A_s0002,1,NVDA,Long,Short,100,Short,100,-0.87,999.13,Long,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:18:32.129263+00:00,anthropic/claude-opus-4.6_A_s0002,2,MSFT,Long,Short,80,Long,80,2.824,1001.954,Long,0,1,1,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:18:35.989560+00:00,anthropic/claude-opus-4.6_A_s0002,3,BTC,Long,Short,120,Short,120,2.268,1004.222,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:18:39.847392+00:00,anthropic/claude-opus-4.6_A_s0002,4,TSLA,Long,Short,130,Short,130,-0.741,1003.481,Long,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:18:43.761969+00:00,anthropic/claude-opus-4.6_A_s0002,5,AMZN,Short,Long,110,Long,110,2.981,1006.462,Long,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:18:47.921209+00:00,anthropic/claude-opus-4.6_A_s0002,6,XRP,Long,Short,130,Short,130,6.097,1012.559,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:18:51.589871+00:00,anthropic/claude-opus-4.6_A_s0002,7,Gold,Long,Long,120,Long,120,-1.2,1011.359,Short,0,0,0,True,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:19:01.800934+00:00,anthropic/claude-opus-4.6_A_s0002,8,ETH,Long,Short,130,Short,130,4.043,1015.402,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:19:08.154241+00:00,anthropic/claude-opus-4.6_A_s0002,9,Nat Gas,Long,Short,130,Short,130,-6.656,1008.746,Long,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:19:12.020067+00:00,anthropic/claude-opus-4.6_A_s0002,10,ADA,Long,Short,130,Short,130,2.223,1010.969,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:19:15.870152+00:00,anthropic/claude-opus-4.6_A_s0002,11,Brent Oil,Short,Short,130,Short,130,3.588,1014.557,Short,1,1,0,True,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:19:19.946051+00:00,anthropic/claude-opus-4.6_A_s0002,12,AAPL,nan,Short,140,Short,140,0.126,1014.683,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:19:23.706549+00:00,anthropic/claude-opus-4.6_A_s0002,13,SOL,Long,Short,130,Short,130,4.134,1018.817,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:19:30.976963+00:00,anthropic/claude-opus-4.6_A_s0002,14,Silver,Short,Long,130,Long,130,-4.732,1014.085,Short,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:19:35.011471+00:00,anthropic/claude-opus-4.6_A_s0002,15,Copper,Long,Short,130,Short,130,4.264,1018.349,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0002,ok
+2026-11-12T23:19:38.941611+00:00,anthropic/claude-opus-4.6_A_s0003,1,NVDA,Long,Short,100,Short,100,-0.87,999.13,Long,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:19:46.889825+00:00,anthropic/claude-opus-4.6_A_s0003,2,MSFT,Long,Short,120,Long,120,4.236,1003.366,Long,0,1,1,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:20:08.008709+00:00,anthropic/claude-opus-4.6_A_s0003,3,BTC,Long,Short,150,Short,150,2.835,1006.201,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:20:11.805599+00:00,anthropic/claude-opus-4.6_A_s0003,4,TSLA,Long,Short,150,Short,150,-0.855,1005.346,Long,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:20:15.714200+00:00,anthropic/claude-opus-4.6_A_s0003,5,AMZN,Short,Long,150,Long,150,4.065,1009.411,Long,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:20:19.240973+00:00,anthropic/claude-opus-4.6_A_s0003,6,XRP,Long,Short,160,Short,160,7.504,1016.915,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:20:22.965811+00:00,anthropic/claude-opus-4.6_A_s0003,7,Gold,Long,Long,160,Long,160,-1.6,1015.315,Short,0,0,0,True,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:20:29.532492+00:00,anthropic/claude-opus-4.6_A_s0003,8,ETH,Long,Short,170,Short,170,5.287,1020.602,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:20:36.706874+00:00,anthropic/claude-opus-4.6_A_s0003,9,Nat Gas,Long,Short,170,Short,170,-8.704,1011.898,Long,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:20:40.592150+00:00,anthropic/claude-opus-4.6_A_s0003,10,ADA,Long,Short,170,Short,170,2.907,1014.805,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:20:44.139264+00:00,anthropic/claude-opus-4.6_A_s0003,11,Brent Oil,Short,Short,170,Short,170,4.692,1019.497,Short,1,1,0,True,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:20:47.910724+00:00,anthropic/claude-opus-4.6_A_s0003,12,AAPL,nan,Short,180,Short,180,0.162,1019.659,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:21:08.686160+00:00,anthropic/claude-opus-4.6_A_s0003,13,SOL,Long,Short,180,Short,180,5.724,1025.383,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:21:15.460602+00:00,anthropic/claude-opus-4.6_A_s0003,14,Silver,Short,Long,180,Long,180,-6.552,1018.831,Short,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:21:19.332299+00:00,anthropic/claude-opus-4.6_A_s0003,15,Copper,Long,Short,180,Short,180,5.904,1024.735,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0003,ok
+2026-11-12T23:21:22.909591+00:00,anthropic/claude-opus-4.6_A_s0004,1,NVDA,Long,Short,100,Short,100,-0.87,999.13,Long,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:21:30.711934+00:00,anthropic/claude-opus-4.6_A_s0004,2,MSFT,Long,Short,80,Long,80,2.824,1001.954,Long,0,1,1,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:21:34.604437+00:00,anthropic/claude-opus-4.6_A_s0004,3,BTC,Long,Short,120,Short,120,2.268,1004.222,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:21:38.998287+00:00,anthropic/claude-opus-4.6_A_s0004,4,TSLA,Long,Short,130,Short,130,-0.741,1003.481,Long,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:21:42.901114+00:00,anthropic/claude-opus-4.6_A_s0004,5,AMZN,Short,Long,110,Long,110,2.981,1006.462,Long,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:21:47.235547+00:00,anthropic/claude-opus-4.6_A_s0004,6,XRP,Long,Short,130,Short,130,6.097,1012.559,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:21:51.199890+00:00,anthropic/claude-opus-4.6_A_s0004,7,Gold,Long,Long,130,Long,130,-1.3,1011.259,Short,0,0,0,True,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:22:01.741232+00:00,anthropic/claude-opus-4.6_A_s0004,8,ETH,Long,Short,130,Short,130,4.043,1015.302,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:22:08.583992+00:00,anthropic/claude-opus-4.6_A_s0004,9,Nat Gas,Long,Short,130,Short,130,-6.656,1008.646,Long,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:22:12.513403+00:00,anthropic/claude-opus-4.6_A_s0004,10,ADA,Long,Short,130,Short,130,2.223,1010.869,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:22:16.383113+00:00,anthropic/claude-opus-4.6_A_s0004,11,Brent Oil,Short,Short,130,Short,130,3.588,1014.457,Short,1,1,0,True,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:22:20.266952+00:00,anthropic/claude-opus-4.6_A_s0004,12,AAPL,nan,Short,130,Short,130,0.117,1014.574,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:22:24.103122+00:00,anthropic/claude-opus-4.6_A_s0004,13,SOL,Long,Short,130,Short,130,4.134,1018.708,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:22:27.953288+00:00,anthropic/claude-opus-4.6_A_s0004,14,Silver,Short,Long,130,Long,130,-4.732,1013.976,Short,0,0,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok
+2026-11-12T23:22:31.738721+00:00,anthropic/claude-opus-4.6_A_s0004,15,Copper,Long,Short,130,Short,130,4.264,1018.24,Short,1,1,0,False,anthropic/claude-opus-4.6,A,anthropic/claude-opus-4.6_A_s0004,ok

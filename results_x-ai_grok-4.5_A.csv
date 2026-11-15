@@ -1,0 +1,76 @@
+timestamp,participant_id,round,ticker,algo_dir,initial_choice,initial_wager,final_choice,final_wager,pnl,balance,outcome,initial_correct,final_correct,switched,algo_agreed,model,condition,session_id,parse_status
+2026-11-13T23:10:45.283453+00:00,x-ai/grok-4.5_A_s0000,1,NVDA,Long,Short,200,Long,200,1.74,1001.74,Long,0,1,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:10:55.011504+00:00,x-ai/grok-4.5_A_s0000,2,MSFT,Long,Short,100,Long,100,3.53,1005.27,Long,0,1,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:11:05.243502+00:00,x-ai/grok-4.5_A_s0000,3,BTC,Long,Short,100,Long,100,-1.89,1003.38,Short,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:11:15.550849+00:00,x-ai/grok-4.5_A_s0000,4,TSLA,Long,Short,100,Short,100,-0.57,1002.81,Long,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:11:25.519758+00:00,x-ai/grok-4.5_A_s0000,5,AMZN,Short,Long,100,Short,100,-2.71,1000.1,Long,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:11:34.348512+00:00,x-ai/grok-4.5_A_s0000,6,XRP,Long,Short,100,Short,100,4.69,1004.79,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:11:44.252201+00:00,x-ai/grok-4.5_A_s0000,7,Gold,Long,Long,100,Long,100,-1.0,1003.79,Short,0,0,0,True,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:11:57.397186+00:00,x-ai/grok-4.5_A_s0000,8,ETH,Long,Short,100,Short,100,3.11,1006.9,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:12:07.273765+00:00,x-ai/grok-4.5_A_s0000,9,Nat Gas,Long,Short,100,Short,100,-5.12,1001.78,Long,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:12:16.756858+00:00,x-ai/grok-4.5_A_s0000,10,ADA,Long,Short,100,Short,100,1.71,1003.49,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:12:25.564357+00:00,x-ai/grok-4.5_A_s0000,11,Brent Oil,Short,Short,100,Short,100,2.76,1006.25,Short,1,1,0,True,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:12:34.415213+00:00,x-ai/grok-4.5_A_s0000,12,AAPL,nan,Short,100,SKIP,0,0.0,1006.25,Short,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:12:44.222859+00:00,x-ai/grok-4.5_A_s0000,13,SOL,Long,Short,100,Short,100,3.18,1009.43,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:12:59.526643+00:00,x-ai/grok-4.5_A_s0000,14,Silver,Short,Long,100,Long,100,-3.64,1005.79,Short,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:13:13.321561+00:00,x-ai/grok-4.5_A_s0000,15,Copper,Long,Short,100,Short,100,3.28,1009.07,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0000,ok
+2026-11-13T23:13:19.203529+00:00,x-ai/grok-4.5_A_s0001,1,NVDA,Long,Short,100,Long,100,0.87,1000.87,Long,0,1,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:13:28.675741+00:00,x-ai/grok-4.5_A_s0001,2,MSFT,Long,Short,100,Long,100,3.53,1004.4,Long,0,1,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:13:37.675697+00:00,x-ai/grok-4.5_A_s0001,3,BTC,Long,Short,100,Long,100,-1.89,1002.51,Short,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:13:48.490271+00:00,x-ai/grok-4.5_A_s0001,4,TSLA,Long,Short,100,Short,100,-0.57,1001.94,Long,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:13:56.696102+00:00,x-ai/grok-4.5_A_s0001,5,AMZN,Short,Long,100,Short,100,-2.71,999.23,Long,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:14:04.323657+00:00,x-ai/grok-4.5_A_s0001,6,XRP,Long,Short,100,Short,100,4.69,1003.92,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:14:13.541536+00:00,x-ai/grok-4.5_A_s0001,7,Gold,Long,Long,100,Long,100,-1.0,1002.92,Short,0,0,0,True,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:14:24.380169+00:00,x-ai/grok-4.5_A_s0001,8,ETH,Long,Short,100,Short,100,3.11,1006.03,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:14:36.266886+00:00,x-ai/grok-4.5_A_s0001,9,Nat Gas,Long,Short,100,Short,100,-5.12,1000.91,Long,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:14:45.908984+00:00,x-ai/grok-4.5_A_s0001,10,ADA,Long,Short,100,Short,100,1.71,1002.62,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:14:58.922414+00:00,x-ai/grok-4.5_A_s0001,11,Brent Oil,Short,Short,100,Short,100,2.76,1005.38,Short,1,1,0,True,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:15:08.871035+00:00,x-ai/grok-4.5_A_s0001,12,AAPL,nan,Short,100,SKIP,0,0.0,1005.38,Short,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:15:16.552942+00:00,x-ai/grok-4.5_A_s0001,13,SOL,Long,Short,100,Short,100,3.18,1008.56,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:15:29.205534+00:00,x-ai/grok-4.5_A_s0001,14,Silver,Short,Long,100,Long,100,-3.64,1004.92,Short,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:15:48.829496+00:00,x-ai/grok-4.5_A_s0001,15,Copper,Long,Short,100,Short,100,3.28,1008.2,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0001,ok
+2026-11-13T23:15:55.931687+00:00,x-ai/grok-4.5_A_s0002,1,NVDA,Long,Long,100,Long,100,0.87,1000.87,Long,1,1,0,True,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:16:08.344994+00:00,x-ai/grok-4.5_A_s0002,2,MSFT,Long,Short,100,Long,100,3.53,1004.4,Long,0,1,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:16:16.147324+00:00,x-ai/grok-4.5_A_s0002,3,BTC,Long,Short,100,Long,100,-1.89,1002.51,Short,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:16:27.005363+00:00,x-ai/grok-4.5_A_s0002,4,TSLA,Long,Short,100,Short,100,-0.57,1001.94,Long,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:16:33.327613+00:00,x-ai/grok-4.5_A_s0002,5,AMZN,Short,Long,100,Short,100,-2.71,999.23,Long,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:16:42.801050+00:00,x-ai/grok-4.5_A_s0002,6,XRP,Long,Short,100,Short,100,4.69,1003.92,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:16:49.511210+00:00,x-ai/grok-4.5_A_s0002,7,Gold,Long,Long,100,Long,100,-1.0,1002.92,Short,0,0,0,True,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:17:00.851452+00:00,x-ai/grok-4.5_A_s0002,8,ETH,Long,Short,100,Short,100,3.11,1006.03,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:17:11.861437+00:00,x-ai/grok-4.5_A_s0002,9,Nat Gas,Long,Short,100,Short,100,-5.12,1000.91,Long,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:17:23.810806+00:00,x-ai/grok-4.5_A_s0002,10,ADA,Long,Short,100,Short,100,1.71,1002.62,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:17:34.412966+00:00,x-ai/grok-4.5_A_s0002,11,Brent Oil,Short,Short,100,Short,100,2.76,1005.38,Short,1,1,0,True,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:17:45.897424+00:00,x-ai/grok-4.5_A_s0002,12,AAPL,nan,Short,100,SKIP,0,0.0,1005.38,Short,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:17:54.317527+00:00,x-ai/grok-4.5_A_s0002,13,SOL,Long,Short,100,Short,100,3.18,1008.56,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:18:05.700415+00:00,x-ai/grok-4.5_A_s0002,14,Silver,Short,Long,100,Long,100,-3.64,1004.92,Short,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:18:20.309450+00:00,x-ai/grok-4.5_A_s0002,15,Copper,Long,Short,100,Short,100,3.28,1008.2,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0002,ok
+2026-11-13T23:18:27.407256+00:00,x-ai/grok-4.5_A_s0003,1,NVDA,Long,Long,100,Long,200,1.74,1001.74,Long,1,1,0,True,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:18:33.804633+00:00,x-ai/grok-4.5_A_s0003,2,MSFT,Long,Short,100,Long,100,3.53,1005.27,Long,0,1,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:18:41.045079+00:00,x-ai/grok-4.5_A_s0003,3,BTC,Long,Short,100,Long,100,-1.89,1003.38,Short,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:18:49.126253+00:00,x-ai/grok-4.5_A_s0003,4,TSLA,Long,Short,100,Short,100,-0.57,1002.81,Long,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:18:56.901202+00:00,x-ai/grok-4.5_A_s0003,5,AMZN,Short,Long,100,Short,100,-2.71,1000.1,Long,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:19:05.922434+00:00,x-ai/grok-4.5_A_s0003,6,XRP,Long,Short,100,Long,100,-4.69,995.41,Short,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:19:15.150745+00:00,x-ai/grok-4.5_A_s0003,7,Gold,Long,Long,100,Long,100,-1.0,994.41,Short,0,0,0,True,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:19:26.067631+00:00,x-ai/grok-4.5_A_s0003,8,ETH,Long,Short,100,Short,100,3.11,997.52,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:19:42.354997+00:00,x-ai/grok-4.5_A_s0003,9,Nat Gas,Long,Short,100,Short,100,-5.12,992.4,Long,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:19:50.032967+00:00,x-ai/grok-4.5_A_s0003,10,ADA,Long,Short,100,Short,100,1.71,994.11,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:19:56.543675+00:00,x-ai/grok-4.5_A_s0003,11,Brent Oil,Short,Short,100,Short,100,2.76,996.87,Short,1,1,0,True,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:20:05.367532+00:00,x-ai/grok-4.5_A_s0003,12,AAPL,nan,Short,100,SKIP,0,0.0,996.87,Short,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:20:14.645323+00:00,x-ai/grok-4.5_A_s0003,13,SOL,Long,Short,100,Short,100,3.18,1000.05,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:20:24.540116+00:00,x-ai/grok-4.5_A_s0003,14,Silver,Short,Long,100,Short,100,3.64,1003.69,Short,0,1,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:20:41.740798+00:00,x-ai/grok-4.5_A_s0003,15,Copper,Long,Short,100,Short,100,3.28,1006.97,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0003,ok
+2026-11-13T23:20:53.419109+00:00,x-ai/grok-4.5_A_s0004,1,NVDA,Long,Short,100,Long,100,0.87,1000.87,Long,0,1,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:21:07.417515+00:00,x-ai/grok-4.5_A_s0004,2,MSFT,Long,Short,100,Long,100,3.53,1004.4,Long,0,1,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:21:17.174019+00:00,x-ai/grok-4.5_A_s0004,3,BTC,Long,Short,100,Long,100,-1.89,1002.51,Short,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:21:26.786643+00:00,x-ai/grok-4.5_A_s0004,4,TSLA,Long,Short,100,Short,100,-0.57,1001.94,Long,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:21:34.992603+00:00,x-ai/grok-4.5_A_s0004,5,AMZN,Short,Long,100,Short,100,-2.71,999.23,Long,1,0,1,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:21:49.981561+00:00,x-ai/grok-4.5_A_s0004,6,XRP,Long,Short,100,Short,100,4.69,1003.92,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:22:00.489416+00:00,x-ai/grok-4.5_A_s0004,7,Gold,Long,Long,100,Long,100,-1.0,1002.92,Short,0,0,0,True,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:22:08.620189+00:00,x-ai/grok-4.5_A_s0004,8,ETH,Long,Short,100,Short,100,3.11,1006.03,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:22:19.606699+00:00,x-ai/grok-4.5_A_s0004,9,Nat Gas,Long,Short,100,Short,100,-5.12,1000.91,Long,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:22:29.608285+00:00,x-ai/grok-4.5_A_s0004,10,ADA,Long,Short,100,Short,100,1.71,1002.62,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:22:36.326283+00:00,x-ai/grok-4.5_A_s0004,11,Brent Oil,Short,Short,100,Short,100,2.76,1005.38,Short,1,1,0,True,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:22:46.876853+00:00,x-ai/grok-4.5_A_s0004,12,AAPL,nan,Short,100,Short,100,0.09,1005.47,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:22:56.851750+00:00,x-ai/grok-4.5_A_s0004,13,SOL,Long,Short,100,Short,100,3.18,1008.65,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:23:07.972719+00:00,x-ai/grok-4.5_A_s0004,14,Silver,Short,Long,100,Long,100,-3.64,1005.01,Short,0,0,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
+2026-11-13T23:23:21.613807+00:00,x-ai/grok-4.5_A_s0004,15,Copper,Long,Short,100,Short,100,3.28,1008.29,Short,1,1,0,False,x-ai/grok-4.5,A,x-ai/grok-4.5_A_s0004,ok
